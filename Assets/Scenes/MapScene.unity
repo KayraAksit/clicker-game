@@ -1079,6 +1079,14 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2760221798667335827, guid: a967de5271dd9504481bc7a473fdb762, type: 3}
+      propertyPath: resourceProductionEntries.Array.data[0].MaxLevel
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2760221798667335827, guid: a967de5271dd9504481bc7a473fdb762, type: 3}
+      propertyPath: resourceProductionEntries.Array.data[1].MaxLevel
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2760221798667335827, guid: a967de5271dd9504481bc7a473fdb762, type: 3}
       propertyPath: resourceProductionEntries.Array.data[0].CurrentCost
       value: 30
       objectReference: {fileID: 0}
@@ -1581,6 +1589,14 @@ PrefabInstance:
       propertyPath: upgradeMenuPanel
       value: 
       objectReference: {fileID: 2094455185}
+    - target: {fileID: 2760221798667335827, guid: a967de5271dd9504481bc7a473fdb762, type: 3}
+      propertyPath: resourceProductionEntries.Array.data[0].MaxLevel
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2760221798667335827, guid: a967de5271dd9504481bc7a473fdb762, type: 3}
+      propertyPath: resourceProductionEntries.Array.data[1].MaxLevel
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 2760221798667335827, guid: a967de5271dd9504481bc7a473fdb762, type: 3}
       propertyPath: resourceProductionEntries.Array.data[0].CurrentCost
       value: 5
