@@ -28,7 +28,7 @@ public class ResourceManager : MonoBehaviour
             return;
         }
         Instance = this;
-        DontDestroyOnLoad(gameObject); // Optional: persists across scenes
+        //DontDestroyOnLoad(gameObject); // Optional: persists across scenes
     }
 
     void Start()
